@@ -26,7 +26,8 @@ LINKS = ()
 SOCIAL = (('Twitter', 'https://twitter.com/zachuorice'),
           ('Facebook', 'https://www.facebook.com/profile.php?id=100009557919910'),
           ('Youtube', 'https://www.youtube.com/c/ZachuoriceRich'),
-          ('Github', 'https://github.com/zachuorice/'))
+          ('Github', 'https://github.com/zachuorice/'),
+          ('Soundcloud', 'https://soundcloud.com/machnik1000/'))
 
 DEFAULT_PAGINATION = 10
 

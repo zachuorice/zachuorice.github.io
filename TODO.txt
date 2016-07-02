@@ -1,10 +1,10 @@
 - Site Skeleton
-  - Hi! (An introduction)
-  - What I've Done
-  - What I do
-  - Blog
+  - Hi! (An introduction) [DONE]
+  - What I've Done [DONE]
+  - What I do [STARTED]
+  - Projects (article category)
 - Services
   - Disqus
-  - Analytics
+  - Analytics [DONE]
 - Custom theme
-- Social media nonsensery
+- Social media nonsensery [DONE]
