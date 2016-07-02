@@ -32,4 +32,6 @@ SOCIAL = (('Twitter', 'https://twitter.com/zachuorice'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+THEME="zachuorice"
