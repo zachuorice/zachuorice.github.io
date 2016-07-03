@@ -84,6 +84,9 @@ def publish():
 def gh_pages(rebuild=True):
     """Publish to GitHub Pages"""
     if rebuild:
-	    rebuild()
-    local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env), shell="C:\Program Files\Git\git-bash.exe")
+        rebuild()
+    cname = open("output/CNAME", "w")
+    cname.write("zachuorice.com")
+    cname.close()
+    local("ghp-import -b {github_pages_branch} {deploy_path}/".format(**env), shell="C:\Program Files\Git\git-bash.exe")
     local("git push origin {github_pages_branch}:master".format(**env))
