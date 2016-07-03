@@ -1,6 +1,6 @@
-Title: What I've Done
+Title: What Have I Done? (History)
 Date: 2016-07-02
-Slug: what-ive-done
+Slug: what-have-i-done
 Author: Zachary Richey
 Summary: Learn more about how I got here. Technically speaking, you'll find skills, qualifications, projects, and experience in general here.
 

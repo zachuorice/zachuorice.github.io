@@ -4,7 +4,6 @@
   - What I do [STARTED]
   - Projects (article category)
 - Services
-  - Disqus
   - Analytics [DONE]
-- Custom theme
+- Custom theme [DONE, for now]
 - Social media nonsensery [DONE]

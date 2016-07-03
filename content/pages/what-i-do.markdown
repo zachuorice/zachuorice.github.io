@@ -1,4 +1,4 @@
-Title: What I Do (Résumé)
+Title: What Do I Do? (Résumé)
 Date: 2016-07-02
 Slug: what-i-do
 Author: Zachary Richey
