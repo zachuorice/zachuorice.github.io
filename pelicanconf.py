@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 THEME="zachuorice"
+
+INDEX_SAVE_AS = "blog_index.html"
